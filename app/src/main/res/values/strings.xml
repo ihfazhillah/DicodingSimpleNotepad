@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DicodingSimpleNotepad</string>
+    <string name="new_file">New File</string>
+    <string name="open_file">Open File</string>
+    <string name="save_file">Save File</string>
+    <string name="judul_file">Judul File</string>
+</resources>
